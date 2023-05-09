@@ -1,5 +1,6 @@
 # HomeLab
-My homelab that im currently using. 
+2 Versions of what im doing. You can virtualize everything on one machine.
+Or you can have hardware for everything with a hypervisor. 
 
 ____________________________________________________________________________________________
 
