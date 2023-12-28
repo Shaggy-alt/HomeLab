@@ -10,4 +10,9 @@ I AM NOT LIABLE FOR ANY IMPROPPER USAGE THAT RESULTS IN DAMAGE OF YOUR HARDWARE.
 ____________________________________________________________________________________________
 
 
--
+- I will be using pfsense but you can use whatever you prefer.
+
+
+
+
+## under Construction
