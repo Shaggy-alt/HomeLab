@@ -1,6 +1,9 @@
 # HomeLab
-2 Versions of what im doing. You can virtualize everything on one machine.
-Or you can have hardware for everything with a hypervisor. 
+2 Versions of what im doing. 
+- A: You can virtualize everything on one machine.
+- B: Or you can have hardware for everything with a hypervisor. 
+
+Both include Using either OPNsense or Pfsense as a firewall, users choice. 
 
 ____________________________________________________________________________________________
 
@@ -9,8 +12,14 @@ I AM NOT LIABLE FOR ANY IMPROPPER USAGE THAT RESULTS IN DAMAGE OF YOUR HARDWARE.
 
 ____________________________________________________________________________________________
 
+# Virtualization 
 
-- I will be using pfsense but you can use whatever you prefer.
+For this setup I will be using a laptop that has hardware with:
+- virtualization capabilites
+- Min 500Gb of storage (Prefer nvme m.2 SSD but HDD works fine just abit slow)
+- 32gb at 3200mhz DDR3 (Prefer 64gb with higher speeds for headroom)
+- two Nic interfaces for redundancy & speed.
+
 
 
 
