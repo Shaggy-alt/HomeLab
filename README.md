@@ -14,11 +14,14 @@ ________________________________________________________________________________
 
 # Virtualization 
 
-For this setup I will be using a laptop that has hardware with:
+For this setup I will be using a laptop that has hardware at min:
 - virtualization capabilites
-- Min 500Gb of storage (Prefer nvme m.2 SSD but HDD works fine just abit slow)
-- 32gb at 3200mhz DDR3 (Prefer 64gb with higher speeds for headroom)
-- two Nic interfaces for redundancy & speed.
+- Min 500Gb of storage for OS* + 1Tb of storage min. for VM's (*Prefer nvme m.2 SSD but HDD works fine just abit slow)
+- 32gb at 3200mhz DDR3 of RAM (Prefer 64gb with higher speeds for headroom reasons)
+- Two Nic's for redundancy & speed if possible.
+- 
+
+## Hardware 
 
 
 
