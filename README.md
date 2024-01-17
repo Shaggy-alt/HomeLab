@@ -23,8 +23,10 @@ For this setup I will be using a laptop that has hardware at min:
 
 ## Hardware 
 
-
-
+For this setup I will be using a custom rack I 3D printed from Thingyverse. (File will be provided In another repository)
+ - Router: 
+ - Switches:
+ - UPS: 
 
 
 ## under Construction
