@@ -24,9 +24,10 @@ For this setup I will be using a laptop that has hardware at min:
 ## Hardware 
 
 For this setup I will be using a custom rack I 3D printed from Thingyverse. (File will be provided In another repository)
- - Router: 
- - Switches:
- - UPS: 
+ - Router: Use any router that supports opnsense x86-64 (amd64)/pfsense x86-64 (amd64) OR mikrotik https://mikrotik.com/product/rb5009ug_s_in (the one I have)
+ - Switches: 
+ - UPS:
+ - Server Hardware: 
 
 
 ## under Construction
