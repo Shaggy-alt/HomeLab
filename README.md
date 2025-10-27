@@ -15,19 +15,19 @@ ________________________________________________________________________________
 # Virtualization 
 
 For this setup I will be using a laptop that has hardware at min:
-- virtualization capabilites
-- Min 500Gb of storage for OS* + 1Tb of storage min. for VM's (*Prefer nvme m.2 SSD but HDD works fine just abit slow)
-- 32gb at 3200mhz DDR3 of RAM (Prefer 64gb with higher speeds for headroom reasons)
+- virtualization capabilites within BIOS.
+- Min 500Gb of storage for OS* + 1Tb of storage min for VM's. (*Prefer nvme m.2 SSD but HDD works fine just abit slow)
+- 32gb at 3200mhz DDR3 of RAM. (Prefer 64gb with higher speeds for headroom reasons)
 - Two Nic's for redundancy & speed if possible.
-- 
+- 4 core cpu at min.
 
 ## Hardware 
 
 For this setup I will be using a custom rack I 3D printed from Thingyverse. (File will be provided In another repository)
  - Router: Use any router that supports opnsense x86-64 (amd64)/pfsense x86-64 (amd64) OR mikrotik https://mikrotik.com/product/rb5009ug_s_in (the one I have)
- - Switches: 
- - UPS:
- - Server Hardware: 
+ - Switches: MANAGED switches.
+ - UPS:Pick your preffered brand, ensure its not cheaply built.
+ - Server Hardware: 1u racked or micro racked server.
 
 
 ## under Construction
